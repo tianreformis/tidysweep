@@ -1,0 +1,14 @@
+# Build artifacts
+build/
+dist/
+installer/Output/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local settings
+*.rea.backup
